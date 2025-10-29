@@ -1,3 +1,4 @@
+import streamlit as st
 import matplotlib.pyplot as plt
 from itertools import permutations, combinations
 from random import shuffle
